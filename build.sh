@@ -1,1 +1,1 @@
-python3 src/main.py "/why-you-should-switch-to-arch/"
+python3 src/main.py "/static-site-generator/"
