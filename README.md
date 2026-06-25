@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
